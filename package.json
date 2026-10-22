@@ -1,0 +1,7 @@
+{
+  "name": "shipcheck-demo-webafterai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DEMO ONLY: deliberately insecure repo with FAKE seeded issues for ShipCheck testing.",
+  "dependencies": { "lodash": "4.17.15" }
+}
